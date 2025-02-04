@@ -1,0 +1,24 @@
+.Footer1 li a{
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.363);
+}
+.Footer1{
+height: 40vh;
+}
+.Footer2{
+    /* border: 2px solid red; */
+    margin-left: 40%;
+    position: relative;
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+.Footer3 p{
+    color: white;
+}
+.Footer3 p span{
+color: rgba(255, 255, 255, 0.363);
+}
+.Footer3{
+    margin-left: 37%;
+}

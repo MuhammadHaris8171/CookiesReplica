@@ -1,0 +1,26 @@
+.Love3{
+    
+    margin-left: 4vh;
+    height: 75vh;
+    width:  25%;
+    margin-top: 5vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    background-color: white;
+}
+.Love3 img{
+    width: 25%;
+    border-radius: 50%;
+    margin-top: 5vh;
+}
+.Love3 p{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 2vh;
+
+}
+.Love3 sub{
+    font-size: 20px;
+    margin-top: 10vh;
+}

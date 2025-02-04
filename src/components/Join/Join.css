@@ -1,0 +1,22 @@
+.Join1{
+    height: 45vh;   
+}
+.join2{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 10vh;
+}
+.join2 h2{
+    color:white;
+    font-size: 30px;
+}
+.join2 p{
+    color: #ffffffb3;
+    margin-bottom: 5vh;
+}
+.join2 a{
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+}

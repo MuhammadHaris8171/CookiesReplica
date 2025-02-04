@@ -1,0 +1,51 @@
+.Email1{
+    display: flex;
+    background-color: rgba(59, 131, 246, 0.233);
+    height: 140vh;
+}
+.Email2{
+    width: 40%;
+    height: 105vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    background-color: white;
+    margin-left: 15vh;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+}
+.Email2 h2{
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Email2 input{
+border: 1px solid gray;
+margin-bottom: 20px;
+padding: 10px;
+min-width: 100%;
+}
+.Email2 textarea{
+    border: 1px solid gray;
+    margin-bottom: 40px;
+}
+.Email3{
+    width: 40%;
+    height: 105vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    margin-left: 15vh;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+}
+.Email2 a{
+    background-color: rgba(0, 0, 255, 0.795);
+    color: white;
+    padding: 20px 30px 20px 30px;
+}
+.Email3{
+    color: gray;
+}
+.Email3 h2{
+    color: rgba(128, 128, 128, 0.425);
+}

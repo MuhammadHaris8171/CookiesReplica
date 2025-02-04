@@ -1,0 +1,54 @@
+.Love2 h2{
+    color: black;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    padding-bottom: 20px;
+
+}
+.Love2 h2::after{
+    content: '';
+    position: absolute;
+    left: 45%;
+    bottom: 2px;
+    width: 10%;
+    height: 2px;
+    background-color: rgba(0, 0, 255, 0.884);
+}
+.Love2{
+    padding-top: 20vh;
+    text-align: center;
+    /* border: 2px solid red; */
+    width: 55%;
+    margin-left: 22%;
+}
+.Love4{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20vh;
+    margin-top: 20vh;
+}
+.Love3{
+    margin-left: 4vh;
+    height: 70vh;
+    width:  28%;
+    margin-top: 5vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+.Love3 img{
+    width: 25%;
+    border-radius: 50%;
+    margin-top: 5vh;
+}
+.Love3 p{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 2vh;
+}
+.Love3 sub{
+    font-size: 20px;
+    margin-top: 10vh;
+}
