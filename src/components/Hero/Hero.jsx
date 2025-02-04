@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='' id="home">
       <div className='bg-cover bg-top h-screen bg-hero '>
-        <Navbar />
+        {/* <Navbar /> */}
         <div className='container mx-80  mt-20 py-20  w-[90vh]'>
           <h1 className='text-4xl font-bold text-center text-white'>
             uicookies.com Creates High Quality Bootstrap Template For Free
