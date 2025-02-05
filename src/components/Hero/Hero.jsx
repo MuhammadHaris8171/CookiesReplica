@@ -15,7 +15,7 @@ const Hero = () => {
             <a href="https://uicookies.com" className='bg-blue-600 px-10 py-5 rounded-md text-white'>
               Get Them Now
             </a>
-            <a href="#feature" className='hover:bg-gray-400 border border-white bg-transparent px-10 py-5 rounded-md text-white'>
+            <a href="#" className='hover:bg-gray-400 border border-white bg-transparent px-10 py-5 rounded-md text-white'>
               See Features
             </a>
           </div>
