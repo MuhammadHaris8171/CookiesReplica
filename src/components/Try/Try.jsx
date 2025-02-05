@@ -14,7 +14,7 @@ const Try = () => {
                 <a href="" target='_self'>Get It Now</a>
             </div>
             <div className="TryImage ml-10 mt-40">
-              <img src="../../../public/Images/laptop_1 (1).jpeg" alt="" />
+              <img src="/Images/laptop_1 (1).jpeg" alt="" />
             </div>
             <div className="instant">
               <div className="instant1">
