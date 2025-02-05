@@ -10,7 +10,7 @@ const Email = () => {
                 <input type="text" placeholder='Your Name' />
                 <input type="text" placeholder='Your Email' />
                 <input type="text" placeholder='Your Phone' />
-                <textarea name="T1" id="t1" cols="62" rows  ="10" placeholder='Write a Message'></textarea>
+                <textarea name="T1" id="t1" cols="48" rows="8" placeholder='Write a Message'></textarea>
           
               <a href="" target='_self'>Send Message</a>
             
